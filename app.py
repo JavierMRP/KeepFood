@@ -1,6 +1,4 @@
 import streamlit as st
-from streamlit_option_menu import option_menu
-import streamlit.components.v1 as components
 from PIL import Image
 from streamlit_elements import elements, mui, html
 from pages import home, register, login
