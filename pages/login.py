@@ -1,6 +1,5 @@
 import streamlit as st
 from streamlit_elements import elements, mui, html
-from PIL import Image
 
 with elements("stack_buttons"):
   with st.container():
